@@ -26,9 +26,6 @@ gulp.task('watch', ['browserSync'], function(){
 // Compiles Nunjucks files
 gulp.task('nunjucks', function() {
   return gulp.src('app/pages/**/*.+(html|nunjucks|njk)')
-  .pipe(data(function() {
-    return require('./data.json')
-  }))
   .pipe(nunjucksRender({
     path: ['app/templates'],
     watch: true

@@ -1,43 +1,55 @@
-#about-masthead {
-    background: linear-gradient( rgba(0, 0, 0, 0.30),
-    rgba(0, 0, 0, 0.30)),
-    url("../img/teams/vision.jpg");
-    background-attachment: scroll;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#events-masthead {
-    background: linear-gradient( rgba(0, 0, 0, 0.30),
-    rgba(0, 0, 0, 0.30)),
-    url("../img/teams/cerberus.jpg");
-    background-attachment: scroll;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#apply-masthead {
-    background: linear-gradient( rgba(0, 0, 0, 0.30),
-    rgba(0, 0, 0, 0.30)),
-    url("../img/teams/sporks.jpg");
-    background-attachment: scroll;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
 #dpo-masthead {
     background: linear-gradient( rgba(0, 0, 0, 0.30),
     rgba(0, 0, 0, 0.30)),
     url("../img/dpo.png");
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#asu-masthead {
+    background: linear-gradient( rgba(0, 0, 0, 0.30),
+    rgba(0, 0, 0, 0.30)),
+    url("../img/dpo.png");
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#professors-masthead {
+    background: linear-gradient( rgba(0, 0, 0, 0.10),
+    rgba(0, 0, 0, 0.10)),
+    url("../img/professors.png");
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#students-masthead {
+    background: linear-gradient( rgba(0, 0, 0, 0.30),
+    rgba(0, 0, 0, 0.30)),
+    url("../img/dpo.png");
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#curlz-masthead {
+    background: linear-gradient( rgba(0, 0, 0, 0.30),
+    rgba(0, 0, 0, 0.30)),
+    url("../img/campuscurlz.jpg");
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
